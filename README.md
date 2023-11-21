@@ -45,6 +45,3 @@ Request Data:
     "age": 20
 }
 ```
-
-## Author
-Enrico Siswanto@NTT Data - 2023
